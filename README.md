@@ -7,7 +7,7 @@ The health insurance industry relies heavily on data analytics to understand cus
 
 ## 2. Project Description
 
-This project performs an end-to-end analysis of a US health insurance dataset using Python. The analysis includes data cleaning, exploratory data analysis (EDA), business intelligence reporting, statistical hypothesis testing, and multiple linear regression modeling to identify the major factors affecting insurance charges.
+This project performs an end-to-end analysis of a US health insurance dataset using Python. The analysis includes data cleaning, exploratory data analysis (EDA), business intelligence reportingto identify the major factors affecting insurance charges.
 
 The project demonstrates how data analytics can support insurance companies in improving underwriting accuracy, pricing policies appropriately, identifying high-risk customer segments, and enhancing profitability through data-driven decision-making.
 
