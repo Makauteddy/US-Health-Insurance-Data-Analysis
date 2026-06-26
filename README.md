@@ -3,7 +3,7 @@
 
 The health insurance industry relies heavily on data analytics to understand customer risk, optimize premium pricing, and improve underwriting decisions. By analyzing demographic, lifestyle, and health-related factors, insurers can identify key drivers of medical costs and develop more accurate pricing strategies.
 
-This project explores the US Health Insurance Dataset, which contains information about policyholders and their medical insurance charges. Through exploratory data analysis, statistical hypothesis testing, and predictive modeling, the project uncovers the factors that influence insurance costs and provides actionable insights for business decision-making
+
 
 ## 2. Project Description
 
